@@ -1,0 +1,18 @@
+repo_name: pieterclaerhout/laravel-tips
+report_id: 591c80c82e09c1eaa67e565d8ed8592a
+repo_type: Public
+timestamp: '2023-11-09T11:14:47+00:00'
+requested_by: PovilasKorop
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
